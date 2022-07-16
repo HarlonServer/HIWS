@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="128"
+   viewBox="0 0 101.6 33.866668"
+   version="1.1"
+   id="svg843"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Upminster Station Signboard.svg">
+  <defs
+     id="defs837" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="185.83668"
+     inkscape:cy="180.09864"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g2754"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     width="1122.5197px"
+     showguides="false"
+     inkscape:lockguides="false"
+     inkscape:window-width="1254"
+     inkscape:window-height="720"
+     inkscape:window-x="10"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1406" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#05b20d;fill-opacity:1;stroke-width:3.06501;stroke-linejoin:round"
+       id="rect1410"
+       width="34.395832"
+       height="34.395832"
+       x="3.1789142e-07"
+       y="0" />
+    <g
+       id="g2083">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:3.06501;stroke-linejoin:round"
+         id="rect1410-9"
+         width="34.395832"
+         height="34.395832"
+         x="34.395836"
+         y="0" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:3.06501;stroke-linejoin:round"
+         id="rect1410-3"
+         width="34.395832"
+         height="34.395832"
+         x="67.46875"
+         y="0" />
+    </g>
+    <path
+       d="M 5.3117848,5.669801 1.8748313,9.1067545 5.3977087,12.600992 8.8919447,16.123868 9.6652593,15.321913 10.467215,14.548599 8.3191188,12.400502 6.1996645,10.252406 h 4.9262995 4.9263 v 6.873908 6.873907 H 9.1783573 2.3044505 v 1.145651 1.145651 H 15.250308 28.196167 l -2.119455,2.148096 -2.148095,2.148096 0.801955,0.773314 0.773314,0.801956 3.522878,-3.522877 3.494237,-3.494236 -3.494237,-3.494236 -3.522878,-3.522878 -0.773314,0.801956 -0.801955,0.773315 2.148095,2.148095 2.119455,2.148097 h -4.9263 -4.926301 v -6.873907 -6.873908 h 6.873908 6.873907 V 9.1067545 7.9611033 H 19.145522 6.1996645 L 8.3191188,5.8130074 10.438573,3.6935526 9.7511833,2.9488794 c -0.372337,-0.400978 -0.7446735,-0.716032 -0.8305971,-0.716032 -0.114565,0 -1.7184769,1.5466291 -3.6088014,3.4369536 z"
+       id="path2"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0286413" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:Manrope;stroke-width:0.264583"
+       x="48.831638"
+       y="6.818522"
+       id="text2079"><tspan
+         sodipodi:role="line"
+         id="tspan2077"
+         x="48.831638"
+         y="6.818522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Upminster</tspan></text>
+    <g
+       id="g2754"
+       transform="matrix(0.33333567,0,0,0.33333567,-10.803906,6.6389999)">
+      <rect
+         style="fill:#2bf426;fill-opacity:0.87550199;stroke-width:0.131477"
+         id="rect2430-13"
+         width="67.468285"
+         height="67.20266"
+         x="203.06654"
+         y="11.832917" />
+      <text
+         xml:space="preserve"
+         style="font-size:69.9135px;line-height:1.25;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';stroke-width:0.364132"
+         x="202.06793"
+         y="79.49633"
+         id="text1048"><tspan
+           sodipodi:role="line"
+           id="tspan1046"
+           x="202.06793"
+           y="79.49633"
+           style="font-size:69.9135px;fill:#ffffff;fill-opacity:1;stroke-width:0.364132"></tspan></text>
+    </g>
+  </g>
+</svg>

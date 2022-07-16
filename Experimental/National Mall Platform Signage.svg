@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128.0px"
+   height="128.0px"
+   viewBox="0 0 128.0 128.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="National Mall Platform Signage.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="D:\Users\jhxua\Documents\HIWS\National Mall Platform Signage.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3181" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="180.92293"
+     inkscape:cy="45.562116"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3751" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.999;fill:#000000;stroke-width:1.024"
+       id="rect3758"
+       width="128"
+       height="128"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#64a82c;fill-opacity:1;stroke-width:8.43579;stroke-linejoin:round"
+       id="rect1410"
+       width="128.02678"
+       height="70"
+       x="-0.013389587"
+       y="0" />
+    <path
+       id="path0-6"
+       d="m 31.589207,14.86809 -3.972929,3.997094 v 17.644222 17.644223 h 4.832105 4.832102 l 0.0237,-8.805501 0.0237,-8.805499 h 9.0146 9.014595 l 0.02374,8.805499 0.02374,8.805501 h 4.832113 4.832103 V 37.126255 20.098883 l 0.735803,-0.723027 0.735804,-0.723027 h 4.325852 c 4.181804,0 4.3291,0.0061 4.422024,0.179824 0.06527,0.121986 0.0962,5.816278 0.0962,17.750399 V 54.153627 H 80.217024 85.0496 V 36.459683 c 0,-16.049009 0.01357,-17.699284 0.147059,-17.750398 0.08089,-0.03112 2.153524,-0.05645 4.605819,-0.05645 h 4.458976 l 3.061239,-3.062639 3.061027,-3.062875 V 11.686967 10.84638 H 81.866149 63.348817 l -3.972006,3.972931 -3.97177,3.97293 -0.02405,4.693168 -0.02405,4.693166 -8.317603,0.02533 -8.317586,0.02508 -0.643336,1.301774 c -0.423779,0.857548 -0.66913,1.261114 -0.718847,1.183049 -0.04156,-0.06551 -0.0762,-4.562364 -0.0769,-9.993195 l -0.0012,-9.874241 -0.859636,0.01239 -0.859641,0.01238 -3.972929,3.997093"
+       stroke="none"
+       fill="#fbfbfb"
+       fill-rule="evenodd"
+       style="stroke-width:0.232335" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:18.6667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold'"
+       x="5.2980447"
+       y="89.64286"
+       id="text4433"><tspan
+         sodipodi:role="line"
+         id="tspan4431"
+         x="5.2980447"
+         y="89.64286"
+         style="font-size:18.6667px;fill:#ffffff;fill-opacity:1">National Mall</tspan></text>
+    <rect
+       style="opacity:0.999;fill:#05b20d;fill-opacity:1"
+       id="rect4435"
+       width="50"
+       height="30"
+       x="39"
+       y="95" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:26.6667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold'"
+       x="49.513332"
+       y="119.60001"
+       id="text4433-1"><tspan
+         sodipodi:role="line"
+         id="tspan4431-3"
+         x="49.513332"
+         y="119.60001"
+         style="font-size:26.6667px;fill:#ffffff;fill-opacity:1">C1</tspan></text>
+  </g>
+</svg>

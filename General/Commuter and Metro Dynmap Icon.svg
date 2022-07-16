@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32.0px"
+   height="32.0px"
+   viewBox="0 0 32.0 32.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Commuter and Metro Dynmap Icon.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="D:\Users\jhxua\Documents\HIWS\Commuter and Metro Dynmap Icon.png"
+   inkscape:export-xdpi="95.800003"
+   inkscape:export-ydpi="95.800003">
+  <defs
+     id="defs183" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="27.027636"
+     inkscape:cy="13.263109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1254"
+     inkscape:window-height="681"
+     inkscape:window-x="1943"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid192" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#05b20d;fill-opacity:1;stroke-width:0.0313028"
+       id="rect2430-4"
+       width="16.063242"
+       height="16"
+       x="0"
+       y="7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.8912px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0827667"
+       x="0.08603096"
+       y="23.612896"
+       id="text2434-76"><tspan
+         sodipodi:role="line"
+         id="tspan2432-76"
+         x="0.08603096"
+         y="23.612896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8912px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.0827667"></tspan></text>
+    <rect
+       style="fill:#2575c2;fill-opacity:1;stroke-width:0.0312411"
+       id="rect2430"
+       width="15.999998"
+       height="15.999999"
+       x="16"
+       y="7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.8286px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0824408"
+       x="16.085688"
+       y="22.882814"
+       id="text2434"><tspan
+         sodipodi:role="line"
+         id="tspan2432"
+         x="16.085688"
+         y="22.882814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8286px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.0824408"></tspan></text>
+  </g>
+</svg>
