@@ -15,4 +15,4 @@ For the **HN** and **HT** folders, the vast majority of signage is named accordi
 * For **platform-specific** signage within stations, the format is `XX-YY-PlatformLineDirection`. `XX` and `YY` are the same as above, `Platform` is simply to denote that this is a platform-specific sign, `Line` is the line number the diagram is made for, for example, `M3`, and `Direction` is a geographical location to denote the direction of travel along the line the diagram is showing, i.e., `East`. `Line` and `Direction` are optional if the signage is just general platform signage, such as the station name signs used on Harlonian National station platforms.
 
 ### Station codes
-For the full list of station codes, please see the wiki.
+The full list of station codes is only available to server staff in the staff category of the HCS Discord server.
