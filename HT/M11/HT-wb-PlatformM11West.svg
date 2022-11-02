@@ -6,8 +6,8 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="HT-wb-PlatformM11West.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="C:\Users\jhxua\Documents\HIWS\HT-wb-PlatformM11West.png"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="HT-wb-PlatformM11West.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -18,7 +18,19 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs885" />
+     id="defs885">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1050"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,20 +38,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7168096"
-     inkscape:cx="10.358346"
-     inkscape:cy="97.395358"
+     inkscape:zoom="1.8584048"
+     inkscape:cx="40.088144"
+     inkscape:cy="167.88592"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid898" />
@@ -125,43 +140,19 @@
          id="tspan5571">(Two Bridges)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.1110241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="4.0786028"
        y="63.083466"
        id="text851-6-6-7-6-7"
-       transform="translate(-0.43391399,-22.718071)"><tspan
+       transform="translate(0.13593969,-15.554404)"><tspan
          sodipodi:role="line"
          x="4.0786028"
          y="63.083466"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.1110241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="tspan42631-8-5-7-3-3">Monument</tspan></text>
-    <rect
-       style="fill:#64a82c;fill-opacity:1;stroke-width:0.122851"
-       id="rect38-38-8"
-       width="33.832966"
-       height="7.5388675"
-       x="0.01169304"
-       y="94.055702" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:1.62521px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';stroke-width:0.243781"
-       x="15.525019"
-       y="101.47569"
-       id="text37937"
-       transform="scale(1.0435887,0.95823192)"><tspan
-         sodipodi:role="line"
-         id="tspan37935"
-         style="fill:#ffffff;stroke-width:0.243781"
-         x="15.525019"
-         y="101.47569">Proudly operated </tspan><tspan
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:0.243781"
-         x="15.525019"
-         y="103.5072"
-         id="tspan40757">by HarlonTransit</tspan></text>
     <path
        style="display:inline;fill:#008000;stroke:#008000;stroke-width:2.89796;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2.276644,28.243133 1.956687,91.80928"
+       d="M 2.276644,28.243133 2.0990582,81.843296"
        id="path3343"
        sodipodi:nodetypes="cc" />
     <rect
@@ -169,70 +160,36 @@
        id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4"
        width="1.5874979"
        height="1.5875"
-       x="1.3229165"
-       y="30.332531" />
+       x="1.3941021"
+       y="28.319098" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-6"
        width="1.5874979"
        height="1.5875"
-       x="1.3229165"
-       y="38.535866" />
+       x="1.3941021"
+       y="45.741184" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-1"
        width="1.5874979"
        height="1.5875"
-       x="1.3229165"
-       y="47.023708" />
+       x="1.3941021"
+       y="63.163269" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-3"
        height="1.5875"
-       x="1.3229165"
-       y="56.021473"
+       x="1.3941021"
+       y="80.585358"
        width="1.5874979" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-9"
-       width="1.5874979"
-       height="1.5875"
-       x="1.3229165"
-       y="64.647385" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-90"
-       width="1.5874979"
-       height="1.5875"
-       x="1.3229165"
-       y="81.359375" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-7"
-       width="1.5874979"
-       height="1.5875"
-       x="1.0583354"
-       y="89.958328" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.109544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect957-2-4-7-0-9-1-7-2-7-4-4-4-7-3-6-9-7-9-9-4-8"
-       height="1.5875"
-       x="1.3231655"
-       y="73.289581"
-       width="1.587" />
-    <path
-       id="path0-6"
-       d="m 4.8767152,94.909085 -0.6486606,0.639477 v 2.822799 2.822799 h 0.7889387 0.7889369 l 0.00391,-1.408743 0.00391,-1.408745 h 1.4718057 1.4718123 l 0.00391,1.408745 0.00391,1.408743 h 0.7889381 0.7889377 v -2.724117 -2.724116 l 0.120134,-0.115667 0.120135,-0.115677 h 0.706281 c 0.682762,0 0.70681,9.3e-4 0.721982,0.02874 0.01063,0.01953 0.0157,0.930521 0.0157,2.839792 v 2.811015 h 0.789009 0.789014 v -2.830753 c 0,-2.567595 0.0022,-2.831607 0.02403,-2.839793 0.01323,-0.0047 0.351605,-0.0093 0.751991,-0.0093 h 0.728016 l 0.499807,-0.48997 0.499777,-0.490008 v -0.1344 -0.134476 h -3.02339 -3.023324 l -0.6485077,0.635599 -0.6484706,0.635609 -0.00391,0.750838 -0.00391,0.75083 -1.3580135,0.0037 -1.3580116,0.0037 -0.1050402,0.208267 c -0.069196,0.137192 -0.1092474,0.201755 -0.117366,0.189263 -0.00679,-0.01051 -0.012437,-0.729901 -0.012557,-1.598751 l -1.963e-4,-1.579719 -0.1403516,0.0019 -0.1403534,0.0019 -0.6486607,0.639468"
-       stroke="none"
-       fill="#fbfbfb"
-       fill-rule="evenodd"
-       style="stroke-width:0.0375495" />
     <g
        id="g26741-0-3-1"
-       style="font-variation-settings:normal;vector-effect:none;fill:#666666;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       transform="matrix(0.04545455,0,0,0.04545455,10.664852,77.018551)">
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44252777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;opacity:1;stop-opacity:1"
+       transform="matrix(0.04545455,0,0,0.04545455,11.197664,93.129009)">
       <g
-         id="g2259">
+         id="g2259"
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44252777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -249,233 +206,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="4.0786028"
-       y="80.482506"
-       id="text851-6-6-7-6-7-5-4-2"
-       transform="translate(-0.433914,2.684255)"><tspan
-         sodipodi:role="line"
-         x="4.0786028"
-         y="80.482506"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="tspan42631-8-5-7-3-3-6-7-3">Harlonian Plaza</tspan></text>
-    <g
-       id="g26741-0-3"
-       style="font-variation-settings:normal;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       transform="matrix(0.04545455,0,0,0.04545455,23.988891,79.375)">
-      <rect
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect4059-2-3-5-6-41-1"
-         width="58.208328"
-         height="58.208332"
-         x="60.071568"
-         y="-4.7187164e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8624px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         x="58.025101"
-         y="43.981174"
-         id="text36-56-9-7-8-9-0"><tspan
-           sodipodi:role="line"
-           id="tspan34-9-4-35-9-2-9"
-           x="58.025101"
-           y="43.981174"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8624px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M2</tspan></text>
-    </g>
-    <g
-       id="g26741-0-4"
-       style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       transform="matrix(0.04545455,0,0,0.04545455,25.311808,82.285417)">
-      <rect
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect4059-2-3-5-6-41-4"
-         width="58.208328"
-         height="58.208332"
-         x="58.20834"
-         y="-4.7187164e-06" />
-    </g>
-    <rect
-       style="font-variation-settings:normal;vector-effect:none;fill:#aa0000;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="rect4059-2-3-5-6-41-9-0"
-       width="2.6458333"
-       height="2.6458335"
-       x="29.545139"
-       y="79.375" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0184007"
-       x="29.457478"
-       y="81.348282"
-       id="text36-56-9-7-8-9-2-8"><tspan
-         sodipodi:role="line"
-         id="tspan34-9-4-35-9-2-1-1"
-         x="29.457478"
-         y="81.348282"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0184007">M3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="4.1786151"
-       y="86.054878"
-       id="text851-6-6-7-6-7-5-4-2-4"
-       transform="translate(-0.32813941,5.4042263)"><tspan
-         sodipodi:role="line"
-         x="4.1786151"
-         y="86.054878"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="tspan42631-8-5-7-3-3-6-7-3-4">Two Bridges</tspan></text>
-    <g
-       id="g26741-0-4-2"
-       style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       transform="matrix(0.04545455,0,0,0.04545455,19.314584,89.429163)">
-      <rect
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect4059-2-3-5-6-41-4-6"
-         width="58.208328"
-         height="58.208332"
-         x="58.20834"
-         y="-4.7187164e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8623px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         x="61.08046"
-         y="43.285881"
-         id="text18860-8-1-9"><tspan
-           sodipodi:role="line"
-           id="tspan18858-0-8-0"
-           x="61.08046"
-           y="43.285881"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8623px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M1</tspan></text>
-    </g>
-    <g
-       id="g18866"
-       transform="matrix(0.21487602,0,0,0.21487602,2.309093,84.377389)"
-       style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:0.516689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
-      <g
-         id="g18864"
-         transform="matrix(0.21153849,0,0,0.21153849,65.596318,23.514045)"
-         style="font-variation-settings:normal;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
-        <g
-           id="g18862"
-           style="font-variation-settings:normal;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
-          <rect
-             style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-             id="rect18856"
-             width="58.208328"
-             height="58.208332"
-             x="188.58105"
-             y="-0.018272858" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8624px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-             x="186.53458"
-             y="43.962906"
-             id="text18860"><tspan
-               sodipodi:role="line"
-               id="tspan18858"
-               x="186.53458"
-               y="43.962906"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8624px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M2</tspan></text>
-        </g>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="4.0786028"
-       y="74.763077"
-       id="text851-6-6-7-6-7-5-4"
-       transform="translate(-0.43391399,0.3780839)"><tspan
-         sodipodi:role="line"
-         x="4.0786028"
-         y="74.763077"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="tspan42631-8-5-7-3-3-6-7">N. Riverbank St</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="4.1786151"
-       y="68.356415"
-       id="text851-6-6-7-6-7-5-9"
-       transform="translate(-0.41633379,-2.1876788)"><tspan
-         sodipodi:role="line"
-         x="4.1786151"
-         y="68.356415"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="tspan42631-8-5-7-3-3-6-0">Capital Station</tspan></text>
-    <g
-       id="g3392-9"
-       transform="matrix(0.03937096,0,0,0.03937096,22.69674,65.317552)"
-       style="font-variation-settings:normal;vector-effect:none;fill:#666666;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
-      <rect
-         style="fill:#05b20d;fill-opacity:1;stroke-width:0.131477"
-         id="rect2430-4-3"
-         width="67.468285"
-         height="67.20266"
-         x="135.59827"
-         y="11.832917" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:66.7456px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347634"
-         x="135.95961"
-         y="81.60984"
-         id="text2434-76-1"><tspan
-           sodipodi:role="line"
-           id="tspan2432-76-9"
-           x="135.95961"
-           y="81.60984"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.7456px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.347634"></tspan></text>
-    </g>
-    <g
-       id="g21364"
-       transform="translate(-1.3229175,3.4395875)"
-       style="fill:#aa0000">
-      <rect
-         style="font-variation-settings:normal;vector-effect:none;fill:#aa0000;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         id="rect4059-2-3-5-6-41-9-0-5"
-         height="2.6458335"
-         x="30.691668"
-         y="59.266663"
-         width="2.6459999" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0184007"
-         x="30.604088"
-         y="61.239937"
-         id="text36-56-9-7-8-9-2-8-9"><tspan
-           sodipodi:role="line"
-           id="tspan34-9-4-35-9-2-1-1-9"
-           x="30.604088"
-           y="61.239937"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0184007">M3</tspan></text>
-    </g>
-    <g
-       id="g18874-6"
-       style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       transform="matrix(0.04545455,0,0,0.04545455,23.812499,62.70625)">
-      <rect
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect18868-9"
-         width="58.208328"
-         height="58.208332"
-         x="58.20834"
-         y="-4.7187164e-06" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.1110241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;opacity:1;stop-opacity:1"
        x="3.5494359"
        y="63.199928"
        id="text851-6-6-7-6"
-       transform="translate(0.2128455,-5.3268788)"><tspan
+       transform="translate(0.77799543,19.195179)"><tspan
          sodipodi:role="line"
          x="3.5494359"
          y="63.199928"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.1110241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="tspan42631-8-5-7-3">Chelsham St</tspan></text>
     <g
        id="g3392-8"
-       transform="matrix(0.03937096,0,0,0.03937096,20.237757,55.096627)"
+       transform="matrix(0.03937096,0,0,0.03937096,19.58211,79.459165)"
        style="font-variation-settings:normal;vector-effect:none;fill:#666666;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
       <rect
          style="fill:#05b20d;fill-opacity:1;stroke-width:0.131477"
@@ -498,8 +241,8 @@
     </g>
     <g
        id="g3210"
-       transform="translate(-0.14698526,0.95638063)"
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
+       transform="translate(0.38218141,-1.0861568)"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -517,62 +260,15 @@
        id="g18866-2"
        transform="matrix(0.21487602,0,0,0.21487602,2.5736744,84.905729)"
        style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke-width:0.516689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="28.088192"
-       y="84.27076"
-       id="text18860-8-1-3"><tspan
-         sodipodi:role="line"
-         id="tspan18858-0-8-2"
-         x="28.088192"
-         y="84.27076"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M1</tspan></text>
     <g
-       id="g3501">
-      <g
-         id="g18874"
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         transform="matrix(0.04545455,0,0,0.04545455,23.665511,72.760417)">
-        <rect
-           style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-           id="rect18868"
-           width="58.208328"
-           height="58.208332"
-           x="58.20834"
-           y="-4.7187164e-06" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         x="26.441895"
-         y="74.745758"
-         id="text18860-8-1-94"><tspan
-           sodipodi:role="line"
-           id="tspan18858-0-8-9"
-           x="26.441895"
-           y="74.745758"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M1</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="26.588884"
-       y="64.691589"
-       id="text18860-8-1-90"><tspan
-         sodipodi:role="line"
-         id="tspan18858-0-8-7"
-         x="26.588884"
-         y="64.691589"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M1</tspan></text>
-    <g
-       id="g3538">
+       id="g3538"
+       transform="translate(-0.65564676,24.362538)">
       <g
          id="g18874-3"
-         style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         style="font-variation-settings:normal;opacity:0.999;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          transform="matrix(0.04545455,0,0,0.04545455,20.108333,55.5625)">
         <rect
-           style="font-variation-settings:normal;opacity:0.999;vector-effect:none;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           style="font-variation-settings:normal;opacity:0.999;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
            id="rect18868-91"
            width="58.208328"
            height="58.208332"
@@ -581,15 +277,95 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         x="22.884716"
-         y="57.547844"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         x="22.979223"
+         y="57.521347"
          id="text18860-8-1-4"><tspan
            sodipodi:role="line"
            id="tspan18858-0-8-5"
-           x="22.884716"
-           y="57.547844"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">M1</tspan></text>
+           x="22.979223"
+           y="57.521347"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">M1</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="3.5494359"
+       y="63.199928"
+       id="text1297"
+       transform="translate(0.83443983,21.955137)"><tspan
+         sodipodi:role="line"
+         x="3.5494359"
+         y="63.199928"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Ultra-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="tspan1295">To travel further into </tspan><tspan
+         sodipodi:role="line"
+         x="3.5494359"
+         y="66.727707"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Ultra-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="tspan4359">the Harlon CBD, </tspan><tspan
+         sodipodi:role="line"
+         x="3.5494359"
+         y="70.255478"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Ultra-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="tspan5097">please transfer to </tspan></text>
+    <g
+       id="g5107"
+       transform="translate(6.8456719,34.464247)">
+      <g
+         id="g5101"
+         style="font-variation-settings:normal;opacity:0.999;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         transform="matrix(0.04545455,0,0,0.04545455,20.108333,55.5625)">
+        <rect
+           style="font-variation-settings:normal;opacity:0.999;fill:#008000;fill-opacity:1;stroke-width:2.44253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect5099"
+           width="58.208328"
+           height="58.208332"
+           x="58.20834"
+           y="-4.7187164e-06" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;opacity:0.998001;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         x="22.979223"
+         y="57.521347"
+         id="text5105"><tspan
+           sodipodi:role="line"
+           id="tspan5103"
+           x="22.979223"
+           y="57.521347"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76647px;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.111024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">M1</tspan></text>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-4-0"
+       transform="matrix(0.09471691,0,0,0.06568328,0,93.061)">
+      <rect
+         style="fill:#64a82c;fill-opacity:1;stroke-width:1.65831"
+         id="rect38-38-8-2"
+         width="357.5"
+         height="130"
+         x="0"
+         y="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:1.87867px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';stroke-width:0.281801"
+       x="0.60650259"
+       y="102.02144"
+       id="text37937-3-2"
+       transform="scale(1.0435887,0.95823192)"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.281801"
+         x="0.60650259"
+         y="102.02144"
+         id="tspan40757-1-4">Keeping you moving</tspan></text>
+    <path
+       id="path0-6-7-4"
+       d="m 23.075655,94.782301 -0.586072,0.57777 v 2.550427 2.550422 h 0.712815 0.712812 l 0.0035,-1.272808 0.0035,-1.272814 h 1.329791 1.329797 l 0.0035,1.272814 0.0035,1.272808 h 0.712813 0.712814 v -2.461262 -2.461267 l 0.108542,-0.10451 0.108543,-0.10451 h 0.638132 c 0.616882,0 0.63861,8.4e-4 0.652318,0.026 0.0096,0.0177 0.01419,0.84073 0.01419,2.565777 v 2.539772 h 0.712877 0.712882 v -2.557602 c 0,-2.319847 0.002,-2.558387 0.02171,-2.565777 0.01195,-0.004 0.317679,-0.008 0.679432,-0.008 h 0.657769 l 0.451581,-0.4427 0.451553,-0.44272 v -0.12144 -0.1215 h -2.731662 -2.731603 l -0.585934,0.57427 -0.585899,0.57428 -0.0035,0.67839 -0.0035,0.67838 -1.226978,0.003 -1.226977,0.003 -0.09491,0.18817 c -0.06252,0.12396 -0.0987,0.18229 -0.106041,0.17101 -0.0061,-0.01 -0.01124,-0.65948 -0.01135,-1.44449 l -1.77e-4,-1.42729 -0.12681,0.002 -0.12681,0.002 -0.586022,0.57788"
+       stroke="none"
+       fill="#fbfbfb"
+       fill-rule="evenodd"
+       style="stroke-width:0.0339263" />
   </g>
 </svg>
