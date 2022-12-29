@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="640"
+   height="128"
+   viewBox="0 0 169.33333 33.866668"
+   version="1.1"
+   id="svg843"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="HN-eh-Platform.svg"
+   inkscape:export-filename="HN-eh-Platform.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs837" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="303.04576"
+     inkscape:cy="89.903576"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     width="1122.5197px"
+     showguides="false"
+     inkscape:lockguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1406" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:#d4aa00;stroke-width:0.0418314;-inkscape-stroke:none;stop-color:#000000"
+       id="rect950"
+       width="169.33333"
+       height="33.866665"
+       x="0.0209157"
+       y="0.0209157" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:Manrope;stroke-width:0.264583"
+       x="6.635468"
+       y="25.907747"
+       id="text2079"><tspan
+         sodipodi:role="line"
+         id="tspan2077"
+         x="6.635468"
+         y="25.907747"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:Manrope;-inkscape-font-specification:'Manrope Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Eschenmoos</tspan></text>
+    <rect
+       style="opacity:0.999;fill:#5da818;fill-opacity:1;stroke:#d4aa00;stroke-width:0.0116661;-inkscape-stroke:none;stop-color:#000000"
+       id="rect3132"
+       width="169.32167"
+       height="2.6341672"
+       x="0.0058329976"
+       y="33.872501" />
+  </g>
+</svg>
