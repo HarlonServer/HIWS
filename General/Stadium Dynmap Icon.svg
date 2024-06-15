@@ -5,9 +5,9 @@
    viewBox="0 0 16.0 16.0"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="Metro Dynmap Icon.svg"
+   sodipodi:docname="Stadium Dynmap Icon.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   inkscape:export-filename="Metro Dynmap Icon large.png"
+   inkscape:export-filename="Stadium Dynmap Icon large.png"
    inkscape:export-xdpi="11520"
    inkscape:export-ydpi="11520"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -18,7 +18,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs860" />
+     id="defs2156" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="15.59423"
-     inkscape:cy="8.2390566"
+     inkscape:zoom="11.2"
+     inkscape:cx="21.964286"
+     inkscape:cy="4.5982143"
      inkscape:document-units="px"
-     inkscape:current-layer="g2828"
+     inkscape:current-layer="g2828-39"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1920"
@@ -43,7 +43,7 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid1430"
+       id="grid2726"
        originx="0"
        originy="0"
        spacingy="1"
@@ -52,14 +52,13 @@
        visible="true" />
   </sodipodi:namedview>
   <metadata
-     id="metadata863">
+     id="metadata2159">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,26 +67,31 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2828"
-       transform="matrix(0.03117951,0,0,0.03117951,-0.06299229,-0.06299213)">
-      <rect
-         style="fill:#2575c2;fill-opacity:1"
-         id="rect2430"
-         width="513.15747"
-         height="511.13718"
-         x="2.0203052"
-         y="2.0203052" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:507.661px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64407"
-         x="4.7685351"
-         y="511.4194"
-         id="text2434"><tspan
-           sodipodi:role="line"
-           id="tspan2432"
-           x="4.7685351"
-           y="511.4194"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:507.661px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.64407"></tspan></text>
+       id="g2828-39"
+       transform="matrix(0.03130275,0,0,0.03130275,-0.06324109,-0.06324109)">
+      <g
+         id="g4"
+         transform="matrix(0.99606306,0,0,1,31.506815,1.8646798)"
+         style="fill:#4d4d4d">
+        <rect
+           style="fill:#5d5d5d;fill-opacity:1"
+           id="rect3"
+           width="513.15747"
+           height="511.13718"
+           x="-29.603056"
+           y="0.15562485" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:477.866px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.48889"
+           x="-11.957319"
+           y="495.59055"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             x="-11.957319"
+             y="495.59055"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:477.866px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#f9f9f9;fill-opacity:1;stroke-width:2.48889"></tspan></text>
+      </g>
     </g>
   </g>
 </svg>
