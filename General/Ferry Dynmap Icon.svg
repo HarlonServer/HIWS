@@ -7,9 +7,9 @@
    id="SVGRoot"
    sodipodi:docname="Ferry Dynmap Icon.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   inkscape:export-filename="Ferry Dynmap Icon large.png"
-   inkscape:export-xdpi="11520"
-   inkscape:export-ydpi="11520"
+   inkscape:export-filename="Ferry Dynmap Icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="21.964286"
-     inkscape:cy="11.116071"
+     inkscape:zoom="22.4"
+     inkscape:cx="2.0089286"
+     inkscape:cy="5.8258929"
      inkscape:document-units="px"
      inkscape:current-layer="g2828-39"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
@@ -70,24 +70,27 @@
     <g
        id="g2828-39"
        transform="matrix(0.03130275,0,0,0.03130275,-0.06324109,-0.06324109)">
-      <rect
-         style="fill:#c22527;fill-opacity:1"
-         id="rect2430-1"
-         width="513.15747"
-         height="511.13718"
-         x="1.0101695"
-         y="2.0203166" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:507.661px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64407"
-         x="3.3865774"
-         y="511.4194"
-         id="text2434-7"><tspan
-           sodipodi:role="line"
-           id="tspan2432-0"
-           x="3.3865774"
-           y="511.4194"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:507.661px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.64407"></tspan></text>
+      <g
+         id="g1">
+        <rect
+           style="fill:#1ea9d5;fill-opacity:1;stroke-width:0.99803"
+           id="rect2430-1"
+           width="511.13721"
+           height="511.13718"
+           x="2.0203047"
+           y="2.0203166" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:461.052px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.40132"
+           x="26.725224"
+           y="488.1149"
+           id="text2434-7"><tspan
+             sodipodi:role="line"
+             id="tspan2432-0"
+             x="26.725224"
+             y="488.1149"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:461.052px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.40132"></tspan></text>
+      </g>
     </g>
   </g>
 </svg>

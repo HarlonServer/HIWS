@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="191.5"
-     inkscape:cy="-3.75"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="256.67976"
+     inkscape:cy="119.14749"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37,10 +37,10 @@
      width="1122.5197px"
      showguides="false"
      inkscape:lockguides="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="974"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
@@ -135,28 +135,6 @@
            y="511.4194"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:507.661px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.64407"></tspan></text>
     </g>
-    <g
-       id="g2828-39"
-       transform="matrix(0.03623457,0,0,0.03623457,70.077979,11.766899)">
-      <rect
-         style="fill:#c22527;fill-opacity:1"
-         id="rect2430-1"
-         width="513.15747"
-         height="511.13718"
-         x="1.0101695"
-         y="2.0203166" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:507.661px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64407"
-         x="3.3865774"
-         y="511.4194"
-         id="text2434-7"><tspan
-           sodipodi:role="line"
-           id="tspan2432-0"
-           x="3.3865774"
-           y="511.4194"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:507.661px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.64407"></tspan></text>
-    </g>
     <path
        id="path0-6"
        d="M 4.511045,9.6704908 2.8748031,11.316685 v 7.266733 7.266734 h 1.9900916 1.9900912 l 0.00976,-3.626526 0.00976,-3.626525 h 3.7126431 3.712643 l 0.0098,3.626525 0.0098,3.626526 h 1.990092 1.990091 v -7.012686 -7.012685 l 0.30304,-0.297777 0.30304,-0.297777 h 1.78159 c 1.722265,0 1.78293,0.0025 1.821205,0.07406 0.02689,0.05024 0.03961,2.395421 0.03961,7.310462 v 7.236402 h 1.990282 1.990284 V 18.56294 c 0,-6.609749 0.0056,-7.289411 0.06057,-7.310462 0.0333,-0.01282 0.88692,-0.02325 1.896893,-0.02325 h 1.836419 l 1.260767,-1.2613412 1.260672,-1.261438 v -0.346099 -0.346194 h -7.626421 -7.626324 l -1.63586,1.636243 -1.635764,1.6362422 -0.0099,1.932871 -0.0099,1.93287 -3.425583,0.01043 -3.4255836,0.01033 -0.2649563,0.536133 c -0.1745325,0.353179 -0.2755777,0.519387 -0.2960547,0.487236 -0.017128,-0.02698 -0.031384,-1.878999 -0.031673,-4.115675 l -5.787e-4,-4.0666842 -0.3540406,0.0051 -0.3540409,0.0051 -1.636242,1.646194"
@@ -164,5 +142,28 @@
        fill="#fbfbfb"
        fill-rule="evenodd"
        style="stroke-width:0.0956866" />
+    <g
+       id="g1"
+       transform="translate(14.5525,-30.757916)">
+      <rect
+         style="fill:#1ea9d5;fill-opacity:1;stroke-width:0.0362346"
+         id="rect2430-1-4"
+         width="18.594"
+         height="18.521"
+         x="55.5625"
+         y="42.597916" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.7391px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0871829"
+         x="56.350254"
+         y="60.33004"
+         id="text2434-7-4"
+         transform="scale(1.0019687,0.99803516)"><tspan
+           sodipodi:role="line"
+           id="tspan2432-0-4"
+           x="56.350254"
+           y="60.33004"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7391px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.0871829"></tspan></text>
+    </g>
   </g>
 </svg>

@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="162.12948"
-     inkscape:cy="80.559665"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="101.01525"
+     inkscape:cy="107.58125"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37,10 +37,10 @@
      width="1122.5197px"
      showguides="false"
      inkscape:lockguides="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="974"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -120,26 +120,26 @@
          y="33.51479"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"></tspan></text>
     <g
-       id="g2828-39"
-       transform="matrix(0.06729318,0,0,0.06729309,-0.06797752,-0.13595335)">
+       id="g1">
       <rect
-         style="fill:#c22527;fill-opacity:1"
-         id="rect2430-1"
-         width="513.15747"
-         height="511.13718"
-         x="1.0101695"
-         y="2.0203166" />
+         style="fill:#1ea9d5;fill-opacity:1;stroke-width:0.067293"
+         id="rect2430-1-4"
+         width="34.532001"
+         height="34.396"
+         x="0"
+         y="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:507.661px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64407"
-         x="3.3865774"
-         y="511.4194"
-         id="text2434-7"><tspan
+         style="font-style:normal;font-weight:normal;font-size:31.087px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.161912"
+         x="1.6657575"
+         y="32.775414"
+         id="text2434-7-4"
+         transform="scale(1.001975,0.9980289)"><tspan
            sodipodi:role="line"
-           id="tspan2432-0"
-           x="3.3865774"
-           y="511.4194"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:507.661px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:2.64407"></tspan></text>
+           id="tspan2432-0-5"
+           x="1.6657575"
+           y="32.775414"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.087px;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;fill-opacity:1;stroke-width:0.161912"></tspan></text>
     </g>
   </g>
 </svg>
