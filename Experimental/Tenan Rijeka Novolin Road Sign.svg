@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="384"
+   height="128"
+   viewBox="0 0 101.6 33.866667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Tenan Rijeka Novolin Road Sign.svg"
+   inkscape:export-filename="HEXIT Ad 1 3x2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.248794"
+     inkscape:cx="173.76765"
+     inkscape:cy="100.49696"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000080;stroke-width:0.204633;-inkscape-stroke:none"
+       id="rect48"
+       width="101.6"
+       height="33.866665"
+       x="7.6293946e-07"
+       y="8.9009603e-07" />
+    <g
+       id="g3"
+       transform="translate(9.524331)">
+      <g
+         id="g4">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000080;stroke-width:0.321225;-inkscape-stroke:none"
+           x="6.5923018"
+           y="29.280544"
+           id="text49"><tspan
+             sodipodi:role="line"
+             id="tspan49"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#ffffff;stroke-width:0.321225"
+             x="6.5923018"
+             y="29.280544">↑</tspan></text>
+        <g
+           id="g2"
+           transform="translate(1.1311698,0.37209636)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000080;stroke-width:0.204633;-inkscape-stroke:none"
+             x="33.249634"
+             y="12.852269"
+             id="text48"><tspan
+               sodipodi:role="line"
+               id="tspan48"
+               style="fill:#ffffff;stroke-width:0.204633"
+               x="33.249634"
+               y="12.852269">Rijeka</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.204633;-inkscape-stroke:none"
+             x="29.452942"
+             y="27.241749"
+             id="text50"><tspan
+               sodipodi:role="line"
+               id="tspan50"
+               style="fill:#ffffff;stroke-width:0.204633"
+               x="29.452942"
+               y="27.241749">Novolin</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

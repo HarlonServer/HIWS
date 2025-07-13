@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="128"
+   viewBox="0 0 67.733332 33.866667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Tenang Railway Platform PID v6.svg"
+   inkscape:export-filename="Tenang Railway Platform PID v6.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8344968"
+     inkscape:cx="108.30847"
+     inkscape:cy="17.110621"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.0979689;-inkscape-stroke:none"
+       id="rect6"
+       width="67.73333"
+       height="3.96875"
+       x="1.110223e-16"
+       y="27.516666" />
+    <path
+       id="rect7"
+       style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.094647;-inkscape-stroke:none;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 0,7.8734996 c 1e-8,2.3143894 0,4.6287784 0,6.9431674 22.577778,0 45.155556,0 67.733334,0 0,-2.469445 -10e-7,-4.9388898 0,-7.4083337 -22.577778,0 -45.155556,0 -67.733334,0 0,0.1550548 1.0000004e-8,0.3101096 0,0.4651663 z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037574;-inkscape-stroke:none"
+       id="rect1-2"
+       width="67.73333"
+       height="7.4083333"
+       x="0"
+       y="-3.469447e-18" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="5.3027101"
+       y="5.722991"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.111024"
+         x="5.3027101"
+         y="5.722991">TRAIN DEPARTURES</tspan></text>
+    <g
+       id="g7"
+       transform="translate(12.813271,-0.92303792)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.52778px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';fill:#ffffff;stroke-width:0.0233678"
+         x="-3.9508638"
+         y="13.297305"
+         id="text179-8"><tspan
+           sodipodi:role="line"
+           x="-3.9508638"
+           y="13.297305"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0233678"
+           id="tspan4">DESTINATION</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(5.1902386,-1.3981365)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.52778px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';fill:#ffffff;stroke-width:0.0176613"
+         x="36.340767"
+         y="13.772404"
+         id="text6"><tspan
+           sodipodi:role="line"
+           x="36.340767"
+           y="13.772404"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0176613"
+           id="tspan6">CARRIAGES</tspan></text>
+    </g>
+    <rect
+       style="fill:#333333;stroke:none;stroke-width:0.175252;-inkscape-stroke:none"
+       id="rect14"
+       width="67.73333"
+       height="12.7"
+       x="0"
+       y="14.816667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="35.28727"
+       y="19.545521"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="35.28727"
+         y="19.545521">P e r i j a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="38.028355"
+       y="25.793415"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="38.028355"
+         y="25.793415">N o v o l i n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="53.446125"
+       y="19.436155"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="53.446125"
+         y="19.436155">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="53.186836"
+       y="25.793415"
+       id="text10-4"><tspan
+         sodipodi:role="line"
+         id="tspan10-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="55.85384"
+         y="25.793415">2 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="7.1984839"
+       y="30.102556"
+       id="text14"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.111024"
+         x="7.1984839"
+         y="30.102556"
+         id="tspan14">MANUAL SERVICE; PLEASE REQUEST FOR DRIVER</tspan></text>
+    <rect
+       style="fill:#ff2a2a;fill-opacity:1;stroke-width:0.0799913;-inkscape-stroke:none"
+       id="rect2"
+       width="67.73333"
+       height="2.6458333"
+       x="-1.110223e-16"
+       y="31.220833" />
+  </g>
+</svg>

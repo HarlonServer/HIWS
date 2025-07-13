@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="128"
+   viewBox="0 0 67.733332 33.866667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Tenang Railway Platform PID v2.svg"
+   inkscape:export-filename="Tenang Railway Platform PID.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4172484"
+     inkscape:cx="139.70734"
+     inkscape:cy="92.079836"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.133851;-inkscape-stroke:none"
+       id="rect6"
+       width="67.73333"
+       height="7.4083333"
+       x="1.110223e-16"
+       y="26.458334" />
+    <path
+       id="rect7"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0348633;-inkscape-stroke:none"
+       d="m 0,7.8734996 c 1e-8,2.3143894 0,4.6287784 0,6.9431674 22.577778,0 45.155556,0 67.733334,0 0,-2.469445 -10e-7,-4.9388898 0,-7.4083337 -22.577778,0 -45.155556,0 -67.733334,0 0,0.1550548 1.0000004e-8,0.3101096 0,0.4651663 z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.037574;-inkscape-stroke:none"
+       id="rect1-2"
+       width="67.73333"
+       height="7.4083333"
+       x="0"
+       y="-3.469447e-18" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="0.38182053"
+       y="5.722991"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.111024"
+         x="0.38182053"
+         y="5.722991">ODLASKI VOZOVA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="66.391785"
+       y="3.0638869"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.111024"
+         x="66.391785"
+         y="3.0638869">TRAIN </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.111024"
+         x="66.391785"
+         y="5.7195163"
+         id="tspan7">DEPARTURES</tspan></text>
+    <g
+       id="g7"
+       transform="translate(12.716986,-0.71786559)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.0176613"
+         x="3.2038445"
+         y="14.239124"
+         id="text5"><tspan
+           sodipodi:role="line"
+           x="3.2038445"
+           y="14.239124"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0176613"
+           id="tspan5">DESTINATION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.175px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';fill:#ffffff;stroke-width:0.0176613"
+         x="1.3505368"
+         y="11.723479"
+         id="text179-8"><tspan
+           sodipodi:role="line"
+           x="1.3505368"
+           y="11.723479"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0176613"
+           id="tspan4">ODREDIŠTE</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(2.5901965,-0.71786559)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';fill:#ffffff;stroke-width:0.0176613"
+         x="44.74173"
+         y="14.239124"
+         id="text6"><tspan
+           sodipodi:role="line"
+           x="44.74173"
+           y="14.239124"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0176613"
+           id="tspan6">ARRIVING IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.175px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';fill:#ffffff;stroke-width:0.0176613"
+         x="41.029106"
+         y="11.723479"
+         id="text3"><tspan
+           sodipodi:role="line"
+           x="41.029106"
+           y="11.723479"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0176613"
+           id="tspan3">DOLAZAK ZA</tspan></text>
+    </g>
+    <rect
+       style="fill:#333333;stroke-width:0.167791;-inkscape-stroke:none;stroke:none"
+       id="rect14"
+       width="67.73333"
+       height="11.641666"
+       x="0"
+       y="14.816667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="37.876305"
+       y="19.545521"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="37.876305"
+         y="19.545521">P E R I J A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="40.656902"
+       y="25.264248"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="40.656902"
+         y="25.264248">N O V O L I N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="55.380997"
+       y="19.360315"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="55.380997"
+         y="19.360315">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Manrope;-inkscape-font-specification:Manrope;text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;opacity:0.999;fill:#ffffff;fill-opacity:0.707038;stroke:none;stroke-width:0.446227;-inkscape-stroke:none"
+       x="55.380997"
+       y="25.079042"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Share Tech Mono';-inkscape-font-specification:'Share Tech Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.446226"
+         x="55.380997"
+         y="25.079042">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="1.2381901"
+       y="29.897827"
+       id="text12"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.111024"
+         x="1.2381901"
+         y="29.897827"
+         id="tspan13">RUČNA USLUGA; MOLIMO ZATRAŽITE VOZAČA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.111024;-inkscape-stroke:none"
+       x="7.1984839"
+       y="32.485214"
+       id="text14"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.111024"
+         x="7.1984839"
+         y="32.485214"
+         id="tspan14">MANUAL SERVICE; PLEASE REQUEST FOR DRIVER</tspan></text>
+  </g>
+</svg>
